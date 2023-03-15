@@ -1,0 +1,24 @@
+{
+  "title": "First Steps",
+  "description": "Learn the first steps with Vim",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "title": "Open, edit and close a file",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "Edit and close a file like a Vim master",
+        "text": "step2/text.md"
+      }
+    ]
+  },
+  "finish": {
+    "text": "finish.md"
+  },
+  "backend": {}
+}
